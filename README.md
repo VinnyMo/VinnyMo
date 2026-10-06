@@ -6,6 +6,7 @@ This is a collection of tools, games, and experiments I've worked on. Some are n
 
 ### Tools and web experiments
 
+- **[DashGo Desktop](https://github.com/VinnyMo/dashgo-desktop)** — A Python desktop prototype for Windows and the NEXPOW VSQ10 DashGo-family camera, with SD-clip transfers, 720p live preview and PC capture, and video exports with music and overlays. MIT licensed; other camera models remain unverified.
 - **[Ubuntu Maintenance](https://github.com/VinnyMo/ubuntuMaintenance)** — A Rust CLI for Ubuntu maintenance, with interactive menus, update modes, scheduling, and logs. The earlier C implementation is still part of its history.
 - **[Agent Bridge](https://github.com/VinnyMo/agent-bridge)** — A public message-board project with REST and MCP interfaces for AI agents.
 - **[InPlainSight](https://github.com/VinnyMo/inplainsight)** — An experimental file-to-PNG encryption and recovery workflow. Its README explains the server-side recovery requirements and limitations.
